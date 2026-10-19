@@ -1,0 +1,10 @@
+# Scratch names media files by their content hashes. Keep media bytes exact.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.wav binary
+*.mp3 binary
+*.svg binary
+*.sb3 binary
+# Keep the optimized JSON encoding stable across platforms.
+project.json binary
